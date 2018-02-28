@@ -1,0 +1,26 @@
+nav {
+  background-color: #00c180;
+}
+
+p {
+  font-size: 18px;
+  font-weight: 1px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h4, h3, h2 {
+  color: #35495e;
+}
+
+strong {
+  color: #00c180;
+}
+
+body {
+  font-family: arial;
+}
+
+.enlace {
+  margin: 20px 20px 20px 20px;
+}
